@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Saurabh Gupta"
   avatar           : "profile.png"
-  bio              : "Economist | Consultant | Data Scientist"
-  location         : "Oregon"
+  bio              : "Economist, Data Scientist, currently working at the Oregon Department of Revenue. Interested in conceptualizing data to inform decision making."
+  location         : "Eugene, Oregon"
   employer         :
   # pubmed           : ""
   # googlescholar    : ""
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : "academicpages"
+  # github           : "https://github.com/saurabhdoc"
   google_plus      :
   keybase          :
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/saurabh-gupta-6582a423?original_referer=https%3A%2F%2Fwww.google.com%2F"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
