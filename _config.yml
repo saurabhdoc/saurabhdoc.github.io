@@ -85,9 +85,9 @@ author:
   bio              : "Economist, Data Scientist, currently working at the Oregon Department of Revenue. Interested in conceptualizing data to inform decision making."
   location         : "Eugene, Oregon"
   employer         :
-  # pubmed           : ""
-  # googlescholar    : ""
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "saurabhgupta2501@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
