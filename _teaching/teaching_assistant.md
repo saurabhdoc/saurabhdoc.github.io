@@ -9,10 +9,10 @@ location: "Oregon, USA"
 ---
 
 EC 101 Issues in Economics <br>
-EC 201 Introductory Microeconomics 
-EC 202 Introductory Macroeconomics 
-EC 320 Introduction to Econometrics 
-EC 333 Resource and Environment Economics 
-EC 360 Industrial Organization 
-EC 441 Public Economic: Taxation 
+EC 201 Introductory Microeconomics <br>
+EC 202 Introductory Macroeconomics <br>
+EC 320 Introduction to Econometrics <br>
+EC 333 Resource and Environment Economics <br>
+EC 360 Industrial Organization <br>
+EC 441 Public Economic: Taxation <br>
 EC 582 Trade and Globalization 
