@@ -2,7 +2,7 @@
 title: "Independent Instructor"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/independent_instructor
+permalink: /teaching/2020-01-01-independent_instructor
 venue: "University of Oregon"
 date: 2020-01-01
 location: "Oregon, USA"
