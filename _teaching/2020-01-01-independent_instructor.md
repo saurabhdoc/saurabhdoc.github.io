@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/independent_instructor
 venue: "University of Oregon"
-date: 
+date: 2020-01-01
 location: "Oregon, USA"
 ---
 
