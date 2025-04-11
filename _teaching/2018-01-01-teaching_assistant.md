@@ -2,9 +2,9 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate Teaching"
-permalink: /teaching/teaching_assistant
+permalink: /teaching/2018-01-01-teaching_assistant
 venue: "University of Oregon"
-date: 
+date: 2018-01-01
 location: "Oregon, USA"
 ---
 
